@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+Flask-Bcrypt
+Flask-JWT-Extended
+Flask-Limiter
+Flask-CORS
+cloudinary
+requests
+python-dotenv
